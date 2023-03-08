@@ -1,5 +1,5 @@
 {
-  "name": "rn-otp-input",
+  "name": "@reactNative/rn-otp-input",
   "version": "1.0.0",
   "description": "Customized otp input for android and ios",
   "main": "index.js",
@@ -10,6 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/Riyaz8162/Rn-otp-input.git"
   },
-  "author": "",
+  "author": "Riyaz <mkriyas816@gmail.com>",
   "license": "ISC"
 }
