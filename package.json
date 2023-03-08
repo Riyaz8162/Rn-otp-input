@@ -1,0 +1,15 @@
+{
+  "name": "rn-otp-input",
+  "version": "1.0.0",
+  "description": "Customized otp input for android and ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riyaz8162/Rn-otp-input.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
